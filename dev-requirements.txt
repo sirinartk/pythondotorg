@@ -12,3 +12,5 @@ responses==0.10.5
 django-debug-toolbar==1.9.1
 coverage
 ddt
+django>=3.2.15 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
