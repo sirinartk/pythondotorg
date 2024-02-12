@@ -12,3 +12,4 @@ responses==0.10.5
 django-debug-toolbar==1.9.1
 coverage
 ddt
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
